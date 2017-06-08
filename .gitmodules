@@ -1,0 +1,6 @@
+[submodule "tests/libfuzzyinput"]
+	path = tests/libfuzzyinput
+	url = https://github.com/R1tschY/libfuzzyinput
+[submodule "benchmarks/libbenchmark"]
+	path = benchmarks/libbenchmark
+	url = https://github.com/google/benchmark.git
